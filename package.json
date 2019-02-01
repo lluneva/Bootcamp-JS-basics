@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp_week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day5Index.js",
+  "scripts": {
+    "start": "node day5Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lluneva/BootcampJavaScript2019.git"
+  },
+  "author": "lluneva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lluneva/BootcampJavaScript2019/issues"
+  },
+  "homepage": "https://github.com/lluneva/BootcampJavaScript2019#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
