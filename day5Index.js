@@ -10,9 +10,7 @@ moment.locale('lv');
 
 class Alarm {
     constructor(end){
-       this.end=end;
-       this.start = moment().fromNow();
-             
+       this.end=end; 
     }
     
      timeUntilAlarm(){
@@ -20,5 +18,7 @@ class Alarm {
         return  end.fromNow();
      }
 }
-let alarm1= new Alarm([2019,5,22]);
-console.log(alarm1.timeUntilAlarm());
+console.log(this.start);
+console.log(this.end)
+let alarm1= new Alarm([2019]);
+console.log(alarm1);
