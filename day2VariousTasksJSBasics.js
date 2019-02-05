@@ -135,5 +135,7 @@ compare(firtsArray,secondArray);
 
 
 
-
+const a = "a, b".split (',');
+console.log(a);
+console.log(a.length);
 
