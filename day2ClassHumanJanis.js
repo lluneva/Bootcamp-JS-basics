@@ -2,8 +2,8 @@ class Human {
     constructor(age = 0, sex = null, height) {
       this.age = age;
       this.sex = sex;
-      this.height = 50;
-      this.weight = 3000;
+      this.height = 180;
+      this.weight = 70;
       this.name = "noname";
     }
   
